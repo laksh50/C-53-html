@@ -1,0 +1,65 @@
+
+           h1{
+           color:firebrick;
+           margin:30px;    
+           } 
+           h2{
+            margin:30px;
+            padding:30px;
+            display:flex;
+            flex-wrap:wrap;
+            justify-content:space-evenly;  
+           }
+           h3{
+               color:chartreuse;
+               margin:30px;
+               padding:30px;
+           }
+           .p{
+            border:solid;
+            border-color: chocolate;
+            margin:30px;
+            padding:30px;
+            display:flex;
+            flex-wrap:wrap;
+            justify-content:space-evenly;  
+           }
+           
+           .header{
+             background-color:greenyellow;
+             margin:30px;
+             padding:30px;
+             display:flex;
+             flex-wrap:wrap;
+             justify-content:space-evenly; 
+           }
+
+           .certificate{
+            margin:30px;
+            padding:30px;
+           }
+
+
+           .grid{
+             display:flex;
+             flex-wrap:wrap;
+             justify-content:space-evenly;  
+           }
+            .name{
+              display:flex;
+              flex-wrap:wrap;
+              justify-content:space-evenly;  
+              background-color: rgb(110, 253, 241);
+              margin:30px;
+              padding:30px;
+              border:solid;
+            }
+            a:link{
+              color:red;
+            }
+            a:visited{
+              color:black;
+              margin:30px;
+              padding:30px;
+            }
+            
